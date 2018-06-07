@@ -1,5 +1,12 @@
 # WordFrequency
 
+>>Have Used JDK 8  to implement this user story.
+
+>> Main Class of this project  is WordFrequencyExecutor, which expects file paths as input from command line arguments as per the assignment.
+
+
+Thanks!
+
 Assignment:
 
 You want to get a word count of words from multiple documents. Your program will take in an list of file paths from the command line and end with all the words in a data structure containing each word and its count across all of the documents. Words are separated by one or more white space characters. Ignore differences in capitalization and strip off any punctuation at the start or end of a word.
